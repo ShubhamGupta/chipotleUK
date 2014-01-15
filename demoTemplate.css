@@ -1,0 +1,40 @@
+.placeholder {
+  cursor: pointer;
+}
+
+.slider {
+  width: 1200px;
+  height: 300px;
+  border: dashed 1px;
+  margin-top: 30px;  
+}
+
+#container {
+  margin: 0px 33px;
+}
+
+.social-nw {
+  float: left;
+  height: 300px;
+  width: 500px;
+  border: dashed 1px;
+  margin: 40px 0px;
+}
+
+.events {
+  float: right;
+  height: 300px;
+  width: 500px;
+  border: dashed 1px;
+  margin: 40px 0px;
+}
+
+#header {
+  width: 200px;
+  height: 65px;
+  border: solid 1px;
+}
+
+#header-text {
+  text-align: center;
+}
