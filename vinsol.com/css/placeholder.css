@@ -1,0 +1,91 @@
+.placeholder {
+  border: dashed black 1px !important;
+  position: relative;
+}
+
+.inline {
+  display: inline;
+  margin: 0px 4px;
+}
+
+.crossImgElement {
+  position: absolute;
+  right: 4px;
+  background-image: url('../images/close.png');
+  cursor: pointer;
+  width: 14px !important;
+  height: 14px !important ;
+}
+
+li.placeholder {
+  margin: 0px 0px 0px 1px;
+}
+
+.navigation {
+  width: 416px !important;
+}
+
+.nav-tabs>li>a.last {
+  margin-right: 13px;
+}
+
+.flicker .flick_content {
+  margin: 20px 0px;
+}
+
+.footer .touch .inner {
+  width: 238px !important;
+}
+
+.plusImage {
+  width: 24px;
+  height: 24px;
+}
+
+.placeholder-footer-h6 {
+  height: 100px !important;
+}
+
+.placeholder-see-more, .placeholder-follow-us {
+  height: 39px !important;
+}
+
+.placeholder-logo {
+  height: 60px;
+}
+
+.placeholder-mainsection-h1 {
+  height: 120px;
+}
+
+.placeholder-mainsection-content {
+  height: 84px;
+}
+
+.placeholder-learnmore-link {
+  height: 42px;
+}
+
+.placeholder-twitter-h6 {
+  height: 63px;
+}
+
+.placeholder-getintouch {
+  height: 65px;
+}
+
+.placeholder-schedule-link {
+  height: 59px;
+}
+
+.placeholder-contact {
+  height: 25px;
+}
+
+.footer .touch .inner .data a.schedule {
+  background: transparent url('../images/buttonSprite.png') 0px 0px no-repeat;
+}
+
+.footer .touch .inner .data a.schedule:hover {
+  background: transparent url('../images/buttonSprite.png') 0px -85px no-repeat;
+}
